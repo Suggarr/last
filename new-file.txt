@@ -1,3 +1,4 @@
 Hello, world!
 Now not late/
 
+Third was deleted
